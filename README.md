@@ -1,13 +1,14 @@
-# Список проектов
+# Пет проекты
 Название|Описание
 -----------|:-------: 
 [Анализ сериала Игра Престолов](https://github.com/QuantumFluxx/Code-example/tree/main/Pet-projects/Game_of_thrones_episodes_analysis)|Проведен анализ сезонов и серий сериала Игра Престолов. Посчитал самые высокие рейтинги IMDb по сезонам, какие серии получили наибольшее количество голосов на IMDb, кто написал и снял больше всего эпизодов, кто главные персонажи в Игре Престолов.
 [Tweets](https://github.com/QuantumFluxx/Code-example/tree/main/Pet-projects/Tweets)|Пробный проект с применением ML. Еще не закончен.
 [Анализ продаж супермаркета](https://github.com/QuantumFluxx/Code-example/tree/main/Pet-projects/SuperMarket_Dataset)|Еще не закончен
-
-
-
-
+------------------
+# Karpov_Courses
+Название|Описание
+-----------|:-------:
+[Поездки NYC](https://github.com/QuantumFluxx/Code-example/tree/main/Karpov_Courses/NYC_rides)| Применялись различные методы итерации по рядам. Искался самый быстрый вариант с использованием %%time
 
 
 #### Requirements
