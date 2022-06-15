@@ -1,0 +1,74 @@
+season,episode_num_in_season,episode_num_overall,title,directed_by,written_by,original_air_date,us_viewers
+1,1,1,Winter Is Coming,Tim Van Patten,David Benioff & D. B. Weiss,2011-04-17,2220000.0
+1,2,2,The Kingsroad,Tim Van Patten,David Benioff & D. B. Weiss,2011-04-24,2200000.0
+1,3,3,Lord Snow,Brian Kirk,David Benioff & D. B. Weiss,2011-05-01,2440000.0
+1,4,4,"Cripples, Bastards, and Broken Things",Brian Kirk,Bryan Cogman,2011-05-08,2450000.0
+1,5,5,The Wolf and the Lion,Brian Kirk,David Benioff & D. B. Weiss,2011-05-15,2580000.0
+1,6,6,A Golden Crown,Daniel Minahan,Story by: David Benioff & D. B. WeissTeleplay by: Jane Espenson and David Benioff & D. B. Weiss,2011-05-22,2440000.0
+1,7,7,You Win or You Die,Daniel Minahan,David Benioff & D. B. Weiss,2011-05-29,2400000.0
+1,8,8,The Pointy End,Daniel Minahan,George R. R. Martin,2011-06-05,2720000.0
+1,9,9,Baelor,Alan Taylor,David Benioff & D. B. Weiss,2011-06-12,2660000.0
+1,10,10,Fire and Blood,Alan Taylor,David Benioff & D. B. Weiss,2011-06-19,3040000.0
+2,1,11,The North Remembers,Alan Taylor,David Benioff & D. B. Weiss,2012-04-01,3860000.0
+2,2,12,The Night Lands,Alan Taylor,David Benioff & D. B. Weiss,2012-04-08,3760000.0
+2,3,13,What Is Dead May Never Die,Alik Sakharov,Bryan Cogman,2012-04-15,3770000.0
+2,4,14,Garden of Bones,David Petrarca,Vanessa Taylor,2012-04-22,3650000.0
+2,5,15,The Ghost of Harrenhal,David Petrarca,David Benioff & D. B. Weiss,2012-04-29,3900000.0
+2,6,16,The Old Gods and the New,David Nutter,Vanessa Taylor,2012-05-06,3880000.0
+2,7,17,A Man Without Honor,David Nutter,David Benioff & D. B. Weiss,2012-05-13,3690000.0
+2,8,18,The Prince of Winterfell,Alan Taylor,David Benioff & D. B. Weiss,2012-05-20,3860000.0
+2,9,19,Blackwater,Neil Marshall,George R. R. Martin,2012-05-27,3380000.0
+2,10,20,Valar Morghulis,Alan Taylor,David Benioff & D. B. Weiss,2012-06-03,4200000.0
+3,1,21,Valar Dohaeris,Daniel Minahan,David Benioff & D. B. Weiss,2013-03-31,4370000.0
+3,2,22,"Dark Wings, Dark Words",Daniel Minahan,Vanessa Taylor,2013-04-07,4270000.0
+3,3,23,Walk of Punishment,David Benioff,David Benioff & D. B. Weiss,2013-04-14,4720000.0
+3,4,24,And Now His Watch Is Ended,Alex Graves,David Benioff & D. B. Weiss,2013-04-21,4870000.0
+3,5,25,Kissed by Fire,Alex Graves,Bryan Cogman,2013-04-28,5350000.0
+3,6,26,The Climb,Alik Sakharov,David Benioff & D. B. Weiss,2013-05-05,5500000.0
+3,7,27,The Bear and the Maiden Fair,Michelle MacLaren,George R. R. Martin,2013-05-12,4840000.0
+3,8,28,Second Sons,Michelle MacLaren,David Benioff & D. B. Weiss,2013-05-19,5130000.0
+3,9,29,The Rains of Castamere,David Nutter,David Benioff & D. B. Weiss,2013-06-02,5220000.0
+3,10,30,Mhysa,David Nutter,David Benioff & D. B. Weiss,2013-06-09,5390000.0
+4,1,31,Two Swords,D. B. Weiss,David Benioff & D. B. Weiss,2014-04-06,6640000.0
+4,2,32,The Lion and the Rose,Alex Graves,George R. R. Martin,2014-04-13,6310000.0
+4,3,33,Breaker of Chains,Alex Graves,David Benioff & D. B. Weiss,2014-04-20,6590000.0
+4,4,34,Oathkeeper,Michelle MacLaren,Bryan Cogman,2014-04-27,6950000.0
+4,5,35,First of His Name,Michelle MacLaren,David Benioff & D. B. Weiss,2014-05-04,7160000.0
+4,6,36,The Laws of Gods and Men,Alik Sakharov,Bryan Cogman,2014-05-11,6400000.0
+4,7,37,Mockingbird,Alik Sakharov,David Benioff & D. B. Weiss,2014-05-18,7200000.0
+4,8,38,The Mountain and the Viper,Alex Graves,David Benioff & D. B. Weiss,2014-06-01,7170000.0
+4,9,39,The Watchers on the Wall,Neil Marshall,David Benioff & D. B. Weiss,2014-06-08,6950000.0
+4,10,40,The Children,Alex Graves,David Benioff & D. B. Weiss,2014-06-15,7090000.0
+5,1,41,The Wars to Come,Michael Slovis,David Benioff & D. B. Weiss,2015-04-12,8000000.0
+5,2,42,The House of Black and White,Michael Slovis,David Benioff & D. B. Weiss,2015-04-19,6810000.0
+5,3,43,High Sparrow,Mark Mylod,David Benioff & D. B. Weiss,2015-04-26,6710000.0
+5,4,44,Sons of the Harpy,Mark Mylod,Dave Hill,2015-05-03,6820000.0
+5,5,45,Kill the Boy,Jeremy Podeswa,Bryan Cogman,2015-05-10,6560000.0
+5,6,46,"Unbowed, Unbent, Unbroken",Jeremy Podeswa,Bryan Cogman,2015-05-17,6240000.0
+5,7,47,The Gift,Miguel Sapochnik,David Benioff & D. B. Weiss,2015-05-24,5400000.0
+5,8,48,Hardhome,Miguel Sapochnik,David Benioff & D. B. Weiss,2015-05-31,7010000.0
+5,9,49,The Dance of Dragons,David Nutter,David Benioff & D. B. Weiss,2015-06-07,7140000.0
+5,10,50,Mother's Mercy,David Nutter,David Benioff & D. B. Weiss,2015-06-14,8109999.999999999
+6,1,51,The Red Woman,Jeremy Podeswa,David Benioff & D. B. Weiss,2016-04-24,7940000.0
+6,2,52,Home,Jeremy Podeswa,Dave Hill,2016-05-01,7290000.0
+6,3,53,Oathbreaker,Daniel Sackheim,David Benioff & D. B. Weiss,2016-05-08,7280000.0
+6,4,54,Book of the Stranger,Daniel Sackheim,David Benioff & D. B. Weiss,2016-05-15,7820000.0
+6,5,55,The Door,Jack Bender,David Benioff & D. B. Weiss,2016-05-22,7890000.0
+6,6,56,Blood of My Blood,Jack Bender,Bryan Cogman,2016-05-29,6710000.0
+6,7,57,The Broken Man,Mark Mylod,Bryan Cogman,2016-06-05,7800000.0
+6,8,58,No One,Mark Mylod,David Benioff & D. B. Weiss,2016-06-12,7600000.0
+6,9,59,Battle of the Bastards,Miguel Sapochnik,David Benioff & D. B. Weiss,2016-06-19,7660000.0
+6,10,60,The Winds of Winter,Miguel Sapochnik,David Benioff & D. B. Weiss,2016-06-26,8890000.0
+7,1,61,Dragonstone,Jeremy Podeswa,David Benioff & D. B. Weiss,2017-07-16,10110000.0
+7,2,62,Stormborn,Mark Mylod,Bryan Cogman,2017-07-23,9270000.0
+7,3,63,The Queen's Justice,Mark Mylod,David Benioff & D. B. Weiss,2017-07-30,9250000.0
+7,4,64,The Spoils of War,Matt Shakman,David Benioff & D. B. Weiss,2017-08-06,10170000.0
+7,5,65,Eastwatch,Matt Shakman,Dave Hill,2017-08-13,10720000.0
+7,6,66,Beyond the Wall,Alan Taylor,David Benioff & D. B. Weiss,2017-08-20,10240000.0
+7,7,67,The Dragon and the Wolf,Jeremy Podeswa,David Benioff & D. B. Weiss,2017-08-27,12070000.0
+8,1,68,Winterfell,David Nutter,Dave Hill,2019-04-14,11760000.0
+8,2,69,A Knight of the Seven Kingdoms,David Nutter,Bryan Cogman,2019-04-21,10290000.0
+8,3,70,The Long Night,Miguel Sapochnik,David Benioff & D. B. Weiss,2019-04-28,12020000.0
+8,4,71,The Last of the Starks,David Nutter,David Benioff & D. B. Weiss,2019-05-05,11800000.0
+8,5,72,The Bells,Miguel Sapochnik,David Benioff & D. B. Weiss,2019-05-12,12480000.0
+8,6,73,The Iron Throne,David Benioff & D. B. Weiss,David Benioff & D. B. Weiss,2019-05-19,13610000.0
