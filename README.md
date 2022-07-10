@@ -1,16 +1,18 @@
 
 # Karpov_Courses
 
-Привет! В этом репозитории я сохраняю все лекции, домашние работы и минипроекты с karpov.courses по направлению "Аналитик данных".
+Привет! В этом репозитории я сохраняю все лекции, практические задания и минипроекты с karpov.courses по направлению "Аналитик данных".
 
 -------------------------
 
 Название|Описание
 -----------|:-------: 
+[First project](https://github.com/QuantumFluxx/karpov_courses/tree/main/First_project)|Промежуточный проект.
 [GIT](https://github.com/QuantumFluxx/karpov_courses/tree/main/GIT)|Здесь хранятся лекции и практические задания по блоку GIT.
 [Probability](https://github.com/QuantumFluxx/karpov_courses/tree/main/Probability)|Здесь хранятся лекции и практические задания по блоку Теория вероятностей.
 [Python](https://github.com/QuantumFluxx/karpov_courses/tree/main/Python)|Здесь хранятся лекции, практические задания и минипроекты по блоку Python.
 [SQL](https://github.com/QuantumFluxx/karpov_courses/tree/main/SQL)|Здесь хранятся лекции и практические задания по блоку SQL
+[Statistics](https://github.com/QuantumFluxx/karpov_courses/tree/main/Statistics)|Здесь хранятся лекции, практические задания и минипроекты по блоку Статистика
 [Code examples from Stepik](https://github.com/QuantumFluxx/karpov_courses/tree/main/%D0%A1ode%20examples%20from%20learning%20tasks%20(Stepik))|Здесь хранятся примеры кода из решений заданий на Stepik (не относится к karpov_courses)
 
 
