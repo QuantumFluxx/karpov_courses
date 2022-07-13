@@ -13,7 +13,6 @@
 [Python](https://github.com/QuantumFluxx/karpov_courses/tree/main/Python)|Здесь хранятся лекции, практические задания и минипроекты по блоку Python.
 [SQL](https://github.com/QuantumFluxx/karpov_courses/tree/main/SQL)|Здесь хранятся лекции и практические задания по блоку SQL
 [Statistics](https://github.com/QuantumFluxx/karpov_courses/tree/main/Statistics)|Здесь хранятся лекции, практические задания и минипроекты по блоку Статистика
-[Code examples from Stepik](https://github.com/QuantumFluxx/karpov_courses/tree/main/%D0%A1ode%20examples%20from%20learning%20tasks%20(Stepik))|Здесь хранятся примеры кода из решений заданий на Stepik (не относится к karpov_courses)
 
 
 ### Требования
