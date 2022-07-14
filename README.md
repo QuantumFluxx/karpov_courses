@@ -36,7 +36,11 @@
 
 * язык запросов (SQL).
 
-------------
-
+------------------------------
 ### Дополнительно
-**В репозиторий [pet_projects](https://github.com/QuantumFluxx/pet_projects) я буду добавлять проекты, которые делаю в свободное время для прокачки навыков.**
+
+**В репозиторий [Stepik_courses](https://github.com/QuantumFluxx/Stepik_courses) сохраняю пройденные курсы.**
+
+**В репозиторий [DataCamp_projects](https://github.com/QuantumFluxx/DataCamp_projects) сохраняю проекты с ресурса https://www.datacamp.com/.**
+
+**В репозиторий [pet_projects](https://github.com/QuantumFluxx/pet_projects) сохраняю pet-проекты.**
