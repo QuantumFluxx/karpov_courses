@@ -1,5 +1,6 @@
 
-# Karpov_Courses
+# karpov_courses
+![](https://user-images.githubusercontent.com/100243761/179005624-ec4c5578-555c-4cf0-aeae-3e1fd8216556.png)
 
 Привет! В этом репозитории я сохраняю все лекции, практические задания и минипроекты с karpov.courses по направлению "Аналитик данных".
 
@@ -13,7 +14,6 @@
 [Python](https://github.com/QuantumFluxx/karpov_courses/tree/main/Python)|Здесь хранятся лекции, практические задания и минипроекты по блоку Python.
 [SQL](https://github.com/QuantumFluxx/karpov_courses/tree/main/SQL)|Здесь хранятся лекции и практические задания по блоку SQL
 [Statistics](https://github.com/QuantumFluxx/karpov_courses/tree/main/Statistics)|Здесь хранятся лекции, практические задания и минипроекты по блоку Статистика
-[Code examples from Stepik](https://github.com/QuantumFluxx/karpov_courses/tree/main/%D0%A1ode%20examples%20from%20learning%20tasks%20(Stepik))|Здесь хранятся примеры кода из решений заданий на Stepik (не относится к karpov_courses)
 
 
 ### Требования
@@ -36,7 +36,11 @@
 
 * язык запросов (SQL).
 
-------------
-
+------------------------------
 ### Дополнительно
-**В репозиторий [pet_projects](https://github.com/QuantumFluxx/pet_projects) я буду добавлять проекты, которые делаю в свободное время для прокачки навыков.**
+
+**В репозиторий [Stepik_courses](https://github.com/QuantumFluxx/Stepik_courses) сохраняю пройденные курсы.**
+
+**В репозиторий [DataCamp_projects](https://github.com/QuantumFluxx/DataCamp_projects) сохраняю проекты с ресурса https://www.datacamp.com/.**
+
+**В репозиторий [pet_projects](https://github.com/QuantumFluxx/pet_projects) сохраняю pet-проекты.**
