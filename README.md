@@ -1,5 +1,6 @@
 
-# Karpov_Courses
+# karpov_courses
+![](https://user-images.githubusercontent.com/100243761/179005624-ec4c5578-555c-4cf0-aeae-3e1fd8216556.png)
 
 Привет! В этом репозитории я сохраняю все лекции, практические задания и минипроекты с karpov.courses по направлению "Аналитик данных".
 
