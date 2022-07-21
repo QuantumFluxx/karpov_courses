@@ -1,0 +1,25 @@
+date,browser,user_type,visits
+2020-06-15,Google Chrome,People,250.0
+2020-06-15,Google Chrome,Robots,104.0
+2020-06-15,Yandex Browser,People,47.0
+2020-06-15,Firefox,Robots,31.0
+2020-06-15,Chrome Mobile,People,31.0
+2020-06-15,Firefox,People,27.0
+2020-06-15,Safari,Robots,22.0
+2020-06-15,Safari,People,19.0
+2020-06-15,Mobile Safari,People,15.0
+2020-06-15,Opera,People,11.0
+2020-06-15,Samsung Internet,People,8.0
+2020-06-15,Yandex Browser,Robots,7.0
+2020-06-15,Opera,Robots,5.0
+2020-06-15,UCWEB,Robots,4.0
+2020-06-15,Edge,People,4.0
+2020-06-15,Mobile Safari,Robots,1.0
+2020-06-15,Android Browser,People,1.0
+2020-06-15,Chromium,People,1.0
+2020-06-15,Chromium,Robots,1.0
+2020-06-15,Yandex: mobile app,People,1.0
+2020-06-15,Vivaldi,People,1.0
+2020-06-15,Edge,Robots,1.0
+2020-06-15,CocCoc,People,1.0
+2020-06-15,Samsung Internet,Robots,1.0
