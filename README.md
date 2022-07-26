@@ -75,3 +75,5 @@
 **В репозиторий [DataCamp_projects](https://github.com/QuantumFluxx/DataCamp_projects) сохраняю проекты с ресурса https://www.datacamp.com/.**
 
 **В репозиторий [pet_projects](https://github.com/QuantumFluxx/pet_projects) сохраняю pet-проекты.**
+
+**В репозиторий [codewars_solutions](https://github.com/QuantumFluxx/codewars_solutions) сохраняются решения кат с ресурса www.codewars.com на языках Python, JavaScript, SQL.**
