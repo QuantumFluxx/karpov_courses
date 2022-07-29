@@ -1,10 +1,19 @@
-
 ![](https://user-images.githubusercontent.com/100243761/179005624-ec4c5578-555c-4cf0-aeae-3e1fd8216556.png)
 
-Привет! В этом репозитории я сохраняю все лекции, практические задания и минипроекты с karpov.courses по направлению "Аналитик данных".
+<div id="badges" align="center">
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/QuantumFluxx/HackerRank_solutions.svg)](https://github.com/QuantumFluxx/karpov_courses) 
+[![GitHub commit activity the past week, 4 weeks, year](https://img.shields.io/github/commit-activity/y/QuantumFluxx/karpov_courses.svg)](https://github.com/QuantumFluxx/karpov_courses) 
+[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/QuantumFluxx/HackerRank_solutions.svg)](https://github.com/QuantumFluxx/karpov_courses)
+![ViewCount](https://views.whatilearened.today/views/github/QuantumFluxx/karpov_courses.svg?cache=remove)
+![GitHub top language](https://img.shields.io/github/languages/top/QuantumFluxx/karpov_courses.svg?style=flat)
+
+</div>
+
+Привет! В этом репозитории я сохраняю все лекции, практические задания и минипроекты с `karpov.courses` по направлению "Аналитик данных".
 
 <details>
-<summary>⭐ <strong>Все проекты, лекции и практические задания находятся здесь</strong> 🔭</summary>
+<summary>⭐ <kbd>Все проекты, лекции и практические задания находятся здесь</kbd> 🔭</summary>
 
 * [Python](https://github.com/QuantumFluxx/karpov_courses/tree/main/Python)
   + [Введение в питон и интерфейс Jupyter-Notebook](https://github.com/QuantumFluxx/karpov_courses/tree/main/Python/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D0%BF%D0%B8%D1%82%D0%BE%D0%BD%20%D0%B8%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%20Jupyter-Notebook)
