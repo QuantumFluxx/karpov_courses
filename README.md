@@ -26,6 +26,8 @@
   + [API (GoogleSpreadsheets, Яндекс.Метрика)](https://github.com/QuantumFluxx/karpov_courses/tree/main/Python/API%20(GoogleSpreadsheets%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%9C%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B0))
   + [Продвинутые темы pandas и задания со звездочкой](https://github.com/QuantumFluxx/karpov_courses/tree/main/Python/%D0%9F%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%BD%D1%83%D1%82%D1%8B%D0%B5%20%D1%82%D0%B5%D0%BC%D1%8B%20pandas%20%D0%B8%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%20%D1%81%D0%BE%20%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D0%BE%D1%87%D0%BA%D0%BE%D0%B9)
 * [GIT](https://github.com/QuantumFluxx/karpov_courses/tree/main/GIT)
+  + [Что такое контроль версий и для чего он нужен](https://github.com/QuantumFluxx/karpov_courses/blob/main/GIT/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8%20%D0%B2%20PDF/___1___CLI.pdf)
+  + [Продвинутый функционал GIT](https://github.com/QuantumFluxx/karpov_courses/blob/main/GIT/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8%20%D0%B2%20PDF/___1___GIT.pdf)
 * [SQL](https://github.com/QuantumFluxx/karpov_courses/tree/main/SQL)
   + [Введение и операторы](https://github.com/QuantumFluxx/karpov_courses/tree/main/SQL/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B8%20%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B)
   + [Группировка и агрегатные функции](https://github.com/QuantumFluxx/karpov_courses/tree/main/SQL/%D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%B8%20%D0%B0%D0%B3%D1%80%D0%B5%D0%B3%D0%B0%D1%82%D0%BD%D1%8B%D0%B5%20%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8)
@@ -55,10 +57,14 @@
   + [Аналитика категориальных переменных](https://github.com/QuantumFluxx/karpov_courses/tree/main/%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0%20%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D1%85)
   + [А/В тесты: практика](https://github.com/QuantumFluxx/karpov_courses/tree/main/%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0/%D0%90%D0%92%20%D1%82%D0%B5%D1%81%D1%82%D1%8B%20%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0)
   + [Сложные кейсы и особенности](https://github.com/QuantumFluxx/karpov_courses/tree/main/%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0/%D0%A1%D0%BB%D0%BE%D0%B6%D0%BD%D1%8B%D0%B5%20%D0%BA%D0%B5%D0%B9%D1%81%D1%8B%20%D0%B8%20%D0%BE%D1%81%D0%BE%D0%B1%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8)
-* [Визуализация](https://github.com/QuantumFluxx/karpov_courses/tree/main/%D0%92%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F/%D0%97%D0%B0%D1%87%D0%B5%D0%BC%20%D0%BD%D1%83%D0%B6%D0%BD%D0%B0%20%D0%B2%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20Tableau)
+* [Визуализация](https://github.com/QuantumFluxx/karpov_courses/tree/main/%D0%92%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F)
   + [Зачем нужна визуализация. Основы Tableau](https://github.com/QuantumFluxx/karpov_courses/tree/main/%D0%92%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F/%D0%97%D0%B0%D1%87%D0%B5%D0%BC%20%D0%BD%D1%83%D0%B6%D0%BD%D0%B0%20%D0%B2%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20Tableau)
   + [Как сделать дашборд](https://github.com/QuantumFluxx/karpov_courses/tree/main/%D0%92%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F/%D0%9A%D0%B0%D0%BA%20%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C%20%D0%B4%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4) 
- 
+  + [Сбор требований: Dashboard Canvas](https://github.com/QuantumFluxx/karpov_courses/tree/main/%D0%92%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F/%D0%A1%D0%B1%D0%BE%D1%80%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9.%20Dashboard%20Canvas)
+  + [Расчеты и интерактивность](https://github.com/QuantumFluxx/karpov_courses/tree/main/%D0%92%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F/%D0%A0%D0%B0%D1%81%D1%87%D0%B5%D1%82%D1%8B%20%D0%B8%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C)
+  + [Обзор BI-систем](https://github.com/QuantumFluxx/karpov_courses/tree/main/%D0%92%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F/%D0%9E%D0%B1%D0%B7%D0%BE%D1%80%20BI-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC)
+  
+  
 </details>
 
 ----------------
@@ -81,17 +87,18 @@
 
 * среда программирования [Jupyter Notebook](https://jupyter.org/);
 
-* язык запросов (SQL).
+* язык запросов SQL ([ClickHouse](https://clickhouse.com/docs/ru/), [PostgreSQL](https://www.postgresql.org/));
+
+* BI-системы [Tableau](https://www.tableau.com/), [DataLens](https://datalens.yandex/7o7is1q6ikh23?tab=X1), [Superset](https://superset.apache.org/).
 
 ------------------------------
 ### Дополнительно
 
-**В репозиторий [Stepik_courses](https://github.com/QuantumFluxx/Stepik_courses) сохраняю пройденные курсы.**
+**[Stepik_courses](https://github.com/QuantumFluxx/Stepik_courses) - сохраняю пройденные курсы, сертификаты.**
 
-**В репозиторий [DataCamp_projects](https://github.com/QuantumFluxx/DataCamp_projects) сохраняю проекты с ресурса https://www.datacamp.com/.**
+**[DataCamp_projects](https://github.com/QuantumFluxx/DataCamp_projects) - проекты на Python, SQL, R.**
 
-**В репозиторий [pet_projects](https://github.com/QuantumFluxx/pet_projects) сохраняю pet-проекты.**
+**[pet_projects](https://github.com/QuantumFluxx/pet_projects) - pet-проекты.**
 
-**В репозиторий [codewars_solutions](https://github.com/QuantumFluxx/codewars_solutions) сохраняются решения кат с ресурса www.codewars.com на языках Python, Ruby, Scala, JavaScript, SQL.**
+**[codewars_solutions](https://github.com/QuantumFluxx/codewars_solutions), [HackerRank_solutions](https://github.com/QuantumFluxx/HackerRank_solutions), [LeetCode_solutions](https://github.com/QuantumFluxx/LeetCode_solutions) - решения задач на языках Python, SQL, Ruby, Scala, Java, JavaScript.**
 
-**В репозиторий [HackerRank_solutions](https://github.com/QuantumFluxx/HackerRank_solutions) сохраняю решения проблем с ресурса www.hackerrank.com.**
