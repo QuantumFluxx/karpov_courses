@@ -3,9 +3,9 @@
 <div id="badges" align="center">
 
 [![Karpov Courses](https://img.shields.io/badge/website-karpov.courses-red)](https://karpov.courses/) 
-[![GitHub last commit](https://img.shields.io/github/last-commit/QuantumFluxx/HackerRank_solutions.svg)](https://github.com/QuantumFluxx/karpov_courses) 
+[![GitHub last commit](https://img.shields.io/github/last-commit/QuantumFluxx/karpov_courses.svg)](https://github.com/QuantumFluxx/karpov_courses) 
 [![GitHub commit activity the past week, 4 weeks, year](https://img.shields.io/github/commit-activity/y/QuantumFluxx/karpov_courses.svg)](https://github.com/QuantumFluxx/karpov_courses) 
-[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/QuantumFluxx/HackerRank_solutions.svg)](https://github.com/QuantumFluxx/karpov_courses)
+[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/QuantumFluxx/karpov_courses.svg)](https://github.com/QuantumFluxx/karpov_courses)
 ![ViewCount](https://views.whatilearened.today/views/github/QuantumFluxx/karpov_courses.svg?cache=remove)
 ![GitHub top language](https://img.shields.io/github/languages/top/QuantumFluxx/karpov_courses.svg?style=flat)
 
