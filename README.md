@@ -118,4 +118,3 @@
 **[pet_projects](https://github.com/QuantumFluxx/pet_projects) - pet-проекты.**
 
 **[codewars_solutions](https://github.com/QuantumFluxx/codewars_solutions), [HackerRank_solutions](https://github.com/QuantumFluxx/HackerRank_solutions), [LeetCode_solutions](https://github.com/QuantumFluxx/LeetCode_solutions) - решения задач на языках Python, SQL, Ruby, Scala, Java, JavaScript.**
-
