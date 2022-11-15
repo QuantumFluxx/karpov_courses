@@ -3,9 +3,9 @@
 <div id="badges" align="center">
 
 [![Karpov Courses](https://img.shields.io/badge/website-karpov.courses-red)](https://karpov.courses/) 
-[![GitHub last commit](https://img.shields.io/github/last-commit/QuantumFluxx/HackerRank_solutions.svg)](https://github.com/QuantumFluxx/karpov_courses) 
+[![GitHub last commit](https://img.shields.io/github/last-commit/QuantumFluxx/karpov_courses.svg)](https://github.com/QuantumFluxx/karpov_courses) 
 [![GitHub commit activity the past week, 4 weeks, year](https://img.shields.io/github/commit-activity/y/QuantumFluxx/karpov_courses.svg)](https://github.com/QuantumFluxx/karpov_courses) 
-[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/QuantumFluxx/HackerRank_solutions.svg)](https://github.com/QuantumFluxx/karpov_courses)
+[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/QuantumFluxx/karpov_courses.svg)](https://github.com/QuantumFluxx/karpov_courses)
 ![ViewCount](https://views.whatilearened.today/views/github/QuantumFluxx/karpov_courses.svg?cache=remove)
 ![GitHub top language](https://img.shields.io/github/languages/top/QuantumFluxx/karpov_courses.svg?style=flat)
 
@@ -108,7 +108,7 @@
 
 * BI-системы [Tableau](https://www.tableau.com/), [DataLens](https://datalens.yandex/7o7is1q6ikh23?tab=X1), [Superset](https://superset.apache.org/).
 
-------------------------------
+-----------------------------
 ### Дополнительно
 
 **[Stepik_courses](https://github.com/QuantumFluxx/Stepik_courses) - сохраняю пройденные курсы, сертификаты.**
@@ -118,4 +118,3 @@
 **[pet_projects](https://github.com/QuantumFluxx/pet_projects) - pet-проекты.**
 
 **[codewars_solutions](https://github.com/QuantumFluxx/codewars_solutions), [HackerRank_solutions](https://github.com/QuantumFluxx/HackerRank_solutions), [LeetCode_solutions](https://github.com/QuantumFluxx/LeetCode_solutions) - решения задач на языках Python, SQL, Ruby, Scala, Java, JavaScript.**
-
